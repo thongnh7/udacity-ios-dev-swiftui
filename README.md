@@ -1,4 +1,4 @@
-# Projects for Udacity iOS Development Nanodegree
+# Projects for Udacity iOS Development Nanodegree (thongnh7)
 
 ## Overview
 This repo contains my implementation for all 6 projects as part of my completing Udacity iOS Development Nanodegree Program. Although the program teaches UIKit for the UI part, I chose to use SwiftUI as it's the next gen of iOS development. However SwiftUI is still relatively new and it lacks certain functionalities, so some UIKit components are used too such as MapKit, UICollectionView etc.
